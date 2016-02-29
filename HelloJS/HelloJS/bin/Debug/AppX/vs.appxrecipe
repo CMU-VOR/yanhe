@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-ELR9IPP</Machine>
+    <WindowsUser>Yan</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>35bddd10-a753-4ca1-a6a5-59b03d723472</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7F42E2FCFBAA954794201090AABF886390111E7EE2D1275546199D24BA0C5DF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35bddd10-a753-4ca1-a6a5-59b03d723472_1.0.0.0_neutral__h4dp1g40j5e28</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35bddd10-a753-4ca1-a6a5-59b03d723472_h4dp1g40j5e28!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35bddd10-a753-4ca1-a6a5-59b03d723472</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Yan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-28T23:15:42.548</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-02-28T23:22:08.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T02:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-02-28T23:33:14.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-11T02:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-28T23:15:42.282</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

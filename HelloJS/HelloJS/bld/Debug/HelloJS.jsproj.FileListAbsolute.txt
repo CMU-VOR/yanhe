@@ -1,0 +1,16 @@
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bin\Debug\ReverseMap\resources.pri
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bin\Debug\AppxManifest.xml
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bin\Debug\HelloJS.build.appxrecipe
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\ResourceHandlingTask.state
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\priconfig.xml
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\priconfig.xml.intermediate
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\layout.resfiles
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\layout.resfiles.intermediate
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\resources.resfiles
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\resources.resfiles.intermediate
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\pri.resfiles
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\pri.resfiles.intermediate
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\qualifiers.txt
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\qualifiers.txt.intermediate
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\yan\documents\visual studio 2015\Projects\HelloJS\HelloJS\bld\Debug\ProjectArchitectures.txt
