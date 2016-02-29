@@ -1,0 +1,1 @@
+C:\Users\Yan\Documents\VoiceDemo\Samples\SpeechRecognitionAndSynthesis\js\SpeechAndTTS.jsproj;x64

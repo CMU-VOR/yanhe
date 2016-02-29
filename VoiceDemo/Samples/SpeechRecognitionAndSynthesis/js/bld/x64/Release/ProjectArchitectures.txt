@@ -1,0 +1,1 @@
+C:\Users\Yan\Documents\Windows-universal-samples-master\Windows-universal-samples-master\Samples\SpeechRecognitionAndSynthesis\js\SpeechAndTTS.jsproj;x64
